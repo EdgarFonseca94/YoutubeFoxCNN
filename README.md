@@ -1,4 +1,4 @@
-# YoutubeFoxCNN
+# Fox and CNN Youtube Analysis
 
 Background
 ------------------------
